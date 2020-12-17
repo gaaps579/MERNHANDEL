@@ -1,0 +1,19 @@
+@import '../../../constants/baseColors';
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 600px;
+  padding: 30px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.dropzone{
+  margin: 10px;
+}
+button {
+  color: white;
+}
+
+  

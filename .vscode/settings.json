@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/alan/anaconda3/envs/handel/bin/python",
+    "python.formatting.provider": "black"
+}
