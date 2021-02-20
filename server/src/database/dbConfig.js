@@ -13,10 +13,10 @@ const configObj = {
 
 const dbStreamsHandler = {
   error: () => {
-    console.log("> error ocurred from the database");
+    console.log("> error al conectar con la base de datos");
   },
   open: () => {
-    console.log("> successfully opened the database Atlas mongoDB");
+    console.log("> Conectado correctamente con Atlas mongoDB");
   },
 };
 
