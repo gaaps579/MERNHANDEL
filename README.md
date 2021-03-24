@@ -6,12 +6,6 @@ Users can register and create analysis instances that can then contain musical i
 
 ![](/Images/Logo.png)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ## Requierements
 
 - node 14.x or above
