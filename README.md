@@ -11,3 +11,5 @@ Users can register and create analysis instances that can then contain musical i
 - node 14.x or above
 - npm 6.x or above
 - Set environment variables in /server for the Backend server on a ".env" file with the connection string on it to an instance of MongoDB  with this structure: "MONGO_URI=mongodb+..."
+
+## Installation and developing environment
